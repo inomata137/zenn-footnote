@@ -1,0 +1,9 @@
+[project]
+name = "zenn-footnote"
+version = "0.1.0"
+description = "convert icon svg to png"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cairosvg>=2.8.2",
+]

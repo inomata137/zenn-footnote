@@ -1,0 +1,7 @@
+.znc sup.footnote-ref div.footnote-popup {
+  visibility: hidden;
+}
+
+.znc sup.footnote-ref:hover div.footnote-popup {
+  visibility: visible;
+}
