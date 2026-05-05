@@ -1,6 +1,6 @@
 {
   "name": "zenn-footnote",
-  "description": "manifest.json description",
+  "description": "show footnote below its referrer.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
