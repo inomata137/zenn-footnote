@@ -1,3 +1,6 @@
+> [!NOTE]
+> the feature is supported officially now. this extension is no longer needed.
+
 # zenn-footnote
 Show footnote below its referrer.
 
